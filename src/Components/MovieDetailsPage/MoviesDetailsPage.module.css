@@ -1,0 +1,26 @@
+/* отображение фильмов с домашней страницы */
+
+.list {
+  display: flex;
+  text-align: left;
+  margin: 20px;
+  border-bottom: 1px solid #000;
+
+}
+
+.list_item{
+    margin: 20px;
+}
+
+.list_img{
+    margin-bottom: 20px;
+}
+
+.list_details {
+  border-bottom: 1px solid #000;
+
+}
+
+.list_details_item {
+  margin-bottom: 20px;
+}
