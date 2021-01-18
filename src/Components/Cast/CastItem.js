@@ -1,12 +1,13 @@
 import React from "react";
 import ImageSrc from "../../helpers";
+import st from "./castItems.module.css"
 
 const CastItem = ({ cast }) => {
   return (
     <>
-      <ul>
+      <ul className={st.cast_list}>
         {cast.map((item) => (
-          <li key={item.id}>
+          <li key={item.id} >
             <img
               src={ImageSrc(item.profile_path)}
               alt={item.name}
