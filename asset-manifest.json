@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.45d97c77.chunk.js": "/Search-movies/static/js/0.45d97c77.chunk.js",
+    "static/js/0.45d97c77.chunk.js.map": "/Search-movies/static/js/0.45d97c77.chunk.js.map",
+    "Cast.css": "/Search-movies/static/css/Cast.6b3d5d7b.chunk.css",
+    "Cast.js": "/Search-movies/static/js/Cast.4e73a63f.chunk.js",
+    "Cast.js.map": "/Search-movies/static/js/Cast.4e73a63f.chunk.js.map",
+    "HomePage.css": "/Search-movies/static/css/HomePage.aed86824.chunk.css",
+    "HomePage.js": "/Search-movies/static/js/HomePage.603bff6f.chunk.js",
+    "HomePage.js.map": "/Search-movies/static/js/HomePage.603bff6f.chunk.js.map",
+    "MovieDetailsPage.css": "/Search-movies/static/css/MovieDetailsPage.05cdae21.chunk.css",
+    "MovieDetailsPage.js": "/Search-movies/static/js/MovieDetailsPage.8f99fa22.chunk.js",
+    "MovieDetailsPage.js.map": "/Search-movies/static/js/MovieDetailsPage.8f99fa22.chunk.js.map",
+    "MoviesPage.js": "/Search-movies/static/js/MoviesPage.7431622d.chunk.js",
+    "MoviesPage.js.map": "/Search-movies/static/js/MoviesPage.7431622d.chunk.js.map",
+    "Reviews.js": "/Search-movies/static/js/Reviews.dc3222d1.chunk.js",
+    "Reviews.js.map": "/Search-movies/static/js/Reviews.dc3222d1.chunk.js.map",
+    "main.css": "/Search-movies/static/css/main.7ed47e5d.chunk.css",
+    "main.js": "/Search-movies/static/js/main.e374aeb4.chunk.js",
+    "main.js.map": "/Search-movies/static/js/main.e374aeb4.chunk.js.map",
+    "runtime-main.js": "/Search-movies/static/js/runtime-main.a691f3ab.js",
+    "runtime-main.js.map": "/Search-movies/static/js/runtime-main.a691f3ab.js.map",
+    "static/js/8.2efea89b.chunk.js": "/Search-movies/static/js/8.2efea89b.chunk.js",
+    "static/js/8.2efea89b.chunk.js.map": "/Search-movies/static/js/8.2efea89b.chunk.js.map",
+    "index.html": "/Search-movies/index.html",
+    "precache-manifest.91e8aa6f5e6749f4c9d0d333722c931c.js": "/Search-movies/precache-manifest.91e8aa6f5e6749f4c9d0d333722c931c.js",
+    "service-worker.js": "/Search-movies/service-worker.js",
+    "static/css/Cast.6b3d5d7b.chunk.css.map": "/Search-movies/static/css/Cast.6b3d5d7b.chunk.css.map",
+    "static/css/HomePage.aed86824.chunk.css.map": "/Search-movies/static/css/HomePage.aed86824.chunk.css.map",
+    "static/css/MovieDetailsPage.05cdae21.chunk.css.map": "/Search-movies/static/css/MovieDetailsPage.05cdae21.chunk.css.map",
+    "static/css/main.7ed47e5d.chunk.css.map": "/Search-movies/static/css/main.7ed47e5d.chunk.css.map",
+    "static/js/8.2efea89b.chunk.js.LICENSE.txt": "/Search-movies/static/js/8.2efea89b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a691f3ab.js",
+    "static/js/8.2efea89b.chunk.js",
+    "static/css/main.7ed47e5d.chunk.css",
+    "static/js/main.e374aeb4.chunk.js"
+  ]
+}
