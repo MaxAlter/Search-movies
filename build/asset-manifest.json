@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.10346b12.chunk.js": "/static/js/0.10346b12.chunk.js",
+    "static/js/0.10346b12.chunk.js.map": "/static/js/0.10346b12.chunk.js.map",
+    "Cast.css": "/static/css/Cast.6b3d5d7b.chunk.css",
+    "Cast.js": "/static/js/Cast.2b1963f3.chunk.js",
+    "Cast.js.map": "/static/js/Cast.2b1963f3.chunk.js.map",
+    "HomePage.css": "/static/css/HomePage.aed86824.chunk.css",
+    "HomePage.js": "/static/js/HomePage.812257f4.chunk.js",
+    "HomePage.js.map": "/static/js/HomePage.812257f4.chunk.js.map",
+    "MovieDetailsPage.css": "/static/css/MovieDetailsPage.05cdae21.chunk.css",
+    "MovieDetailsPage.js": "/static/js/MovieDetailsPage.8d6c45fe.chunk.js",
+    "MovieDetailsPage.js.map": "/static/js/MovieDetailsPage.8d6c45fe.chunk.js.map",
+    "MoviesPage.js": "/static/js/MoviesPage.961372e3.chunk.js",
+    "MoviesPage.js.map": "/static/js/MoviesPage.961372e3.chunk.js.map",
+    "Reviews.js": "/static/js/Reviews.2f2f5a19.chunk.js",
+    "Reviews.js.map": "/static/js/Reviews.2f2f5a19.chunk.js.map",
+    "main.css": "/static/css/main.7ed47e5d.chunk.css",
+    "main.js": "/static/js/main.6672d496.chunk.js",
+    "main.js.map": "/static/js/main.6672d496.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9b3a0d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9b3a0d1.js.map",
+    "static/js/8.81c38a2c.chunk.js": "/static/js/8.81c38a2c.chunk.js",
+    "static/js/8.81c38a2c.chunk.js.map": "/static/js/8.81c38a2c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e8754485f8c446509530b2784c48647b.js": "/precache-manifest.e8754485f8c446509530b2784c48647b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/Cast.6b3d5d7b.chunk.css.map": "/static/css/Cast.6b3d5d7b.chunk.css.map",
+    "static/css/HomePage.aed86824.chunk.css.map": "/static/css/HomePage.aed86824.chunk.css.map",
+    "static/css/MovieDetailsPage.05cdae21.chunk.css.map": "/static/css/MovieDetailsPage.05cdae21.chunk.css.map",
+    "static/css/main.7ed47e5d.chunk.css.map": "/static/css/main.7ed47e5d.chunk.css.map",
+    "static/js/8.81c38a2c.chunk.js.LICENSE.txt": "/static/js/8.81c38a2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b3a0d1.js",
+    "static/js/8.81c38a2c.chunk.js",
+    "static/css/main.7ed47e5d.chunk.css",
+    "static/js/main.6672d496.chunk.js"
+  ]
+}
